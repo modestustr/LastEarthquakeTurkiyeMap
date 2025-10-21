@@ -8,6 +8,7 @@
 
 ## 📘 Overview
 
+**Note:** This project is intended **for educational purposes only**.
 This lightweight desktop application uses **Tkinter** for the user interface and **Folium** for interactive map rendering.  
 It fetches real-time earthquake data from **Kandilli Observatory and Earthquake Research Institute (KOERI)**, filters it by **date** and **magnitude**, and visualizes the results on a color-coded interactive map.  
 
